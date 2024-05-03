@@ -1,4 +1,4 @@
-# Gallery App 🖼️
+**# Gallery App 🖼️
 
 Gallery App is a JavaFX application designed to display all images and gifs in a selected folder on your PC. It provides a preview of each image and gif within the chosen location. Additionally, users can toggle between dark mode and light mode themes for better viewing experience.
 
@@ -8,6 +8,15 @@ Gallery App is a JavaFX application designed to display all images and gifs in a
 - Preview images and gifs for quick reference.
 - Toggle between dark mode 🌑 and light mode ☀️ themes for better visual comfort.
 - Add additional features or functionalities as desired.
+
+## Images 📷
+
+![App Image](/home/rukshan/Documents/DEP-12/first-phase/java-fx/00-test/gallery-app/src/main/resources/images/dark-mode.png)
+![App Image](/home/rukshan/Documents/DEP-12/first-phase/java-fx/00-test/gallery-app/src/main/resources/images/dark-mode-2.png)
+![App Image](/home/rukshan/Documents/DEP-12/first-phase/java-fx/00-test/gallery-app/src/main/resources/images/dark-mode-3.png)
+![App Image](/home/rukshan/Documents/DEP-12/first-phase/java-fx/00-test/gallery-app/src/main/resources/images/light-mode.png)
+![App Image](/home/rukshan/Documents/DEP-12/first-phase/java-fx/00-test/gallery-app/src/main/resources/images/light-mode-2.png)
+![App Image](/home/rukshan/Documents/DEP-12/first-phase/java-fx/00-test/gallery-app/src/main/resources/images/dark-mode-4.png)
 
 ## Installation 🚀
 
@@ -38,6 +47,6 @@ Contributions to the Gallery App are welcome! If you have suggestions for improv
 
 ## License 📝
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE).**
 
 
