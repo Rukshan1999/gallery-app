@@ -1,4 +1,4 @@
-**# Gallery App 🖼️
+## Gallery App 🖼️
 
 Gallery App is a JavaFX application designed to display all images and gifs in a selected folder on your PC. It provides a preview of each image and gif within the chosen location. Additionally, users can toggle between dark mode and light mode themes for better viewing experience.
 
