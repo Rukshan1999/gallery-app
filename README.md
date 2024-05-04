@@ -11,12 +11,12 @@ Gallery App is a JavaFX application designed to display all images and gifs in a
 
 ## Images 📷
 
-![App Image](/home/rukshan/Documents/DEP-12/first-phase/java-fx/00-test/gallery-app/src/main/resources/images/dark-mode.png)
-![App Image](/home/rukshan/Documents/DEP-12/first-phase/java-fx/00-test/gallery-app/src/main/resources/images/dark-mode-2.png)
-![App Image](/home/rukshan/Documents/DEP-12/first-phase/java-fx/00-test/gallery-app/src/main/resources/images/dark-mode-3.png)
-![App Image](/home/rukshan/Documents/DEP-12/first-phase/java-fx/00-test/gallery-app/src/main/resources/images/light-mode.png)
-![App Image](/home/rukshan/Documents/DEP-12/first-phase/java-fx/00-test/gallery-app/src/main/resources/images/light-mode-2.png)
-![App Image](/home/rukshan/Documents/DEP-12/first-phase/java-fx/00-test/gallery-app/src/main/resources/images/dark-mode-4.png)
+![App Image](src/main/resources/images/dark-mode.png)
+![App Image](src/main/resources/images/dark-mode-2.png)
+![App Image](src/main/resources/images/dark-mode-3.png)
+![App Image](src/main/resources/images/light-mode.png)
+![App Image](src/main/resources/images/light-mode-2.png)
+![App Image](src/main/resources/images/dark-mode-4.png)
 
 ## Installation 🚀
 
